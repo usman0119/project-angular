@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "istrahat makan siang",
+      "day": "November 22 th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "text": "mandi nih bntr lagi mah",
+      "day": "Jan 19th at 19:00pm",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "tidur ga nih ",
+      "day": "Jan 10th at 20:00pm",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "usman",
+      "day": "19 january 2022",
+      "reminder": false,
+      "id": 9
+    }
+  ]
+}
